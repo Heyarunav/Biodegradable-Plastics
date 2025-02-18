@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodegradable Plastics and Sustainable Biomanufacturing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #000;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 24px;
+            margin: 0;
+        }
+        .author-info {
+            text-align: right;
+            font-size: 14px;
+        }
+        .content {
+            margin-bottom: 20px;
+        }
+        .resources {
+            margin-top: 30px;
+        }
+        .resources h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        .resources ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .resources li {
+            margin-bottom: 10px;
+        }
+        .resources a {
+            color: #1a0dab;
+            text-decoration: none;
+        }
+        .resources a:hover {
+            text-decoration: underline;
+        }
+        .video-container {
+            margin-top: 20px;
+        }
+        iframe {
+            width: 100%;
+            max-width: 560px;
+            height: 315px;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Biodegradable Plastics and Sustainable Biomanufacturing</h1>
+        <div class="author-info">
+            <p>By: Deepshikha Barman</p>
+            <p>2nd Semester</p>
+        </div>
+    </header>
+    <div class="content">
+        <p>Imagine a world where plastic packaging seamlessly decomposes in compost piles, factories actively reduce carbon emissions, and everyday products are made from agricultural byproducts. This is not simply a dream—it’s the emerging reality of biodegradable plastics and sustainable biomanufacturing. These groundbreaking advancements are reshaping industries by marrying eco-consciousness with innovative technology.</p>
+        <h2>Understanding Nature’s Cycle</h2>
+        <p>Conventional plastics stubbornly resist nature, remaining in our environment for generations. In contrast, biodegradable alternatives align with natural processes. Utilizing sources like rice husks, seaweed, and even certain bacteria that consume methane, researchers develop materials such as PHA (Polyhydroxyalkanoates) and PLA (Polylactic Acid). These polymers, enhanced with additives like cellulose nanocrystals, match traditional plastics in durability and heat tolerance. When disposed of, they break down into water, carbon dioxide, and organic matter in composting environments—leaving no harmful residues behind.</p>
+        <h2>From Medicine to Everyday Life</h2>
+        <p>The implications are profound. Startups leverage artificial intelligence to efficiently sort and compost biodegradable materials, ensuring their proper breakdown. Initiatives like the Global Plastic Treaty are pushing for all single-use plastics to be recyclable or biodegradable by 2030, prompting faster adoption. These materials are making their way into various sectors, from food packaging to medical devices, significantly reducing pollution and carbon emissions.</p>
+        <h2>A Quiet Evolution in Production</h2>
+        <p>On another front, sustainable biomanufacturing is revolutionizing how we produce goods. Microbes optimized through AI are now capable of turning agricultural waste into bioplastics faster than ever before. Companies are capturing CO₂ emissions to develop new materials, transforming waste into valuable resources. Small bioreactors in rural communities convert local waste into products, minimizing transport emissions and promoting self-sufficient local economies.</p>
+        <h2>The Future Full of Potential</h2>
+        <p>Experts project that biodegradable plastics could capture a quarter of the global market by 2035. Carbon-negative production methods might become commonplace, and standardizing global practices could restore consumer confidence. Moving forward will require collaboration: policymakers need to create incentives, industries must push the envelope on innovation, and consumers should be open to change.</p>
+        <p>Biodegradable plastics and biomanufacturing represent more than alternatives; they form the foundation of a circular economy. By turning waste into resources and pollution into solutions, they provide a roadmap for achieving a balance between development and environmental preservation. The urgency is clear: transitioning from our reliance on traditional plastics to sustainable systems is not just feasible—it’s essential.</p>
+    </div>
+    <div class="resources">
+        <h2>Learn More</h2>
+        <ul>
+            <li><a href="https://peerj.com/articles/18013/" target="_blank">Comprehensive Analysis of Bioplastics: Life Cycle Assessment, Waste Management, and Circular Economy</a></li>
+        </ul>
+        <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/uddr5Ue96wo" allowfullscreen></iframe>
+        </div>
+    </div>
+</body>
+</html>
